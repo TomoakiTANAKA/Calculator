@@ -12,6 +12,7 @@
 		CFD3D7E6224A12C50041C057 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD3D7E4224A12C50041C057 /* Main.storyboard */; };
 		CFD3D7E8224A12C60041C057 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFD3D7E7224A12C60041C057 /* Assets.xcassets */; };
 		CFD3D7EB224A12C60041C057 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD3D7E9224A12C60041C057 /* LaunchScreen.storyboard */; };
+		CFD3D7F3224A1B0D0041C057 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD3D7F2224A1B0D0041C057 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CFD3D7E7224A12C60041C057 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFD3D7EA224A12C60041C057 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFD3D7EC224A12C60041C057 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFD3D7F2224A1B0D0041C057 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				CFD3D7E0224A12C50041C057 /* AppDelegate.swift */,
 				CFD3D7E2224A12C50041C057 /* ViewController.swift */,
+				CFD3D7F2224A1B0D0041C057 /* ResultViewController.swift */,
 				CFD3D7E4224A12C50041C057 /* Main.storyboard */,
 				CFD3D7E7224A12C60041C057 /* Assets.xcassets */,
 				CFD3D7E9224A12C60041C057 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				CFD3D7E3224A12C50041C057 /* ViewController.swift in Sources */,
 				CFD3D7E1224A12C50041C057 /* AppDelegate.swift in Sources */,
+				CFD3D7F3224A1B0D0041C057 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
